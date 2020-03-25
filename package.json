@@ -1,7 +1,9 @@
 {
+        "publisher": "akil-s",
+    "repository": "https://github.com/Salah-Akil/ayyour-theme.git",
     "name": "ayyour",
     "displayName": "ayyour",
-    "description": "Light Theme",
+    "description": "Light theme for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.43.0"
