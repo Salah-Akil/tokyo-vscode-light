@@ -1,0 +1,21 @@
+{
+    "name": "ayyour",
+    "displayName": "ayyour",
+    "description": "Light Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ayyour",
+                "uiTheme": "vs",
+                "path": "./themes/ayyour-color-theme.json"
+            }
+        ]
+    }
+}
