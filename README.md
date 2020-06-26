@@ -12,7 +12,7 @@
 </p>
 
 
-![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/theme-light.png)
 
 ## Installation via VS Code
 
