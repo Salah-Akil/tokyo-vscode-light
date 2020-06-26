@@ -13,6 +13,7 @@
 
 
 ![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/theme-light.png)
+![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/theme-light-dual.png)
 
 ## Installation via VS Code
 
