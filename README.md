@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="DarkReader Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/blob/master/images/darkreader-logo.png" width="100" />
+  <img alt="DarkReader Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/darkreader-logo.png" width="100" />
 </p>
 <h1 align="center">
   DarkReader Theme for VS Code
