@@ -1,10 +1,10 @@
 {
         "publisher": "akil-s",
     "repository": "https://github.com/Salah-Akil/ayyour-theme.git",
-    "name": "ayyour",
-    "displayName": "ayyour",
+    "name": "tahiti-retro",
+    "displayName": "Tahiti (Retro)",
     "description": "Light theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "ayyour",
+                "label": "tahiti-retro",
                 "uiTheme": "vs",
                 "path": "./themes/ayyour-color-theme.json"
             }
