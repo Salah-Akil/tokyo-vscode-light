@@ -1,10 +1,10 @@
 {
-        "publisher": "akil-s",
-    "repository": "https://github.com/Salah-Akil/ayyour-theme.git",
-    "name": "tahiti-retro",
-    "displayName": "Tahiti (Retro)",
-    "description": "Light theme for VSCode",
-    "version": "0.0.2",
+    "publisher": "akil-s",
+    "repository": "https://github.com/Salah-Akil/tokyo-vscode-light.git",
+    "name": "tokyo-light",
+    "displayName": "Tokyo (Light)",
+    "description": "Tokyo light theme for VSCode",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "tahiti-retro",
+                "label": "Tokyo (Light)",
                 "uiTheme": "vs",
-                "path": "./themes/ayyour-color-theme.json"
+                "path": "./themes/tokyo-light-color-theme.json"
             }
         ]
     }
