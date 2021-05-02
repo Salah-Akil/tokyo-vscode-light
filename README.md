@@ -2,8 +2,9 @@
   <img alt="DarkReader Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/darkreader-logo.png" width="100" />
 </p>
 <h1 align="center">
-  DarkReader Theme for VS Code
+  Tokyo Theme for VS Code
 </h1>
+<h1>東京</h1>
 <h5 align="center">
   Light Version
 </h5>
