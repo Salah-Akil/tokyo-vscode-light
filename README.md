@@ -36,7 +36,7 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 | :----------------------------------------------------------------: | ----------------------------------------------- |
 | ![#7f8a8b](https://via.placeholder.com/10/7f8a8b?text=+) `#7f8a8b` | Comment          |
 | ![#24292e](https://via.placeholder.com/10/24292e?text=+) `#24292e` | Editor foreground, Variables, Colors, Markdown foreground         |
-| ![#ce3952](https://via.placeholder.com/10/ce3952?text=+) `#ce3952` | Invalid, Other Variable, String Link, Number, Constant, Function Argument, Tag Attribute, Embedded, CSS Class and Support                          |
+| ![#ce3952](https://via.placeholder.com/10/ce3952?text=+) `#ce3952` | Invalid, Other Variable, String Link, Number, Constant, Function Argument, Tag Attribute, Embedded                        |
 | ![#8e44ad](https://via.placeholder.com/10/8e44ad?text=+) `#8e44ad` | Keyword, Storage                       |
 | ![#009c8f](https://via.placeholder.com/10/009c8f?text=+) `#009c8f` | Operator, Misc |
 | ![#738d01](https://via.placeholder.com/10/738d01?text=+) `#738d01` | Tag, Function, Special Method                 |
