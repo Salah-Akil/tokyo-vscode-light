@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="Tokyo Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/logo.png" width="100" />
-</p>
+</p> -->
 <h1 align="center">
   Tokyo Theme for VS Code
 </h1>
@@ -12,8 +12,7 @@
   A simple, light theme for <a href="https://google.com/">VS Code, Atom, iTerm and more</a>.
 </p>
 
-
-![demo](https://raw.githubusercontent.com/Salah-Akil/tokyo-vscode-light/master/images/vscode.png)
+![demo](https://github.com/Salah-Akil/tokyo-vscode-light/blob/master/images/vscode.png?raw=true)
 
 ## Installation via VS Code
 
