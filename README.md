@@ -13,8 +13,7 @@
 </p>
 
 
-![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/theme-light.png)
-![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/theme-light-dual.png)
+![demo](https://raw.githubusercontent.com/Salah-Akil/tokyo-vscode-light/master/images/vscode.png)
 
 ## Installation via VS Code
 
@@ -34,16 +33,18 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 
 ## Color Reference
 
-### Syntax Colors
-
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
-| ![#ffd580](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
-| ![#ffae57](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
-| ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
+| ![#7f8a8b](https://via.placeholder.com/10/7f8a8b?text=+) `#7f8a8b` | Comment          |
+| ![#24292e](https://via.placeholder.com/10/24292e?text=+) `#24292e` | Editor foreground, Variables, Colors, Markdown foreground         |
+| ![#ce3952](https://via.placeholder.com/10/ce3952?text=+) `#ce3952` | Invalid, Other Variable, String Link, Number, Constant, Function Argument, Tag Attribute, Embedded, CSS Class and Support                          |
+| ![#8e44ad](https://via.placeholder.com/10/8e44ad?text=+) `#8e44ad` | Keyword, Storage                       |
+| ![#009c8f](https://via.placeholder.com/10/009c8f?text=+) `#009c8f` | Operator, Misc |
+| ![#738d01](https://via.placeholder.com/10/738d01?text=+) `#738d01` | Tag, Function, Special Method                 |
+| ![#9e6200](https://via.placeholder.com/10/9e6200?text=+) `#9e6200` | Block Level Variables                 |
+| ![#f07178](https://via.placeholder.com/10/f07178?text=+) `#f07178` | Other Variable, String Link                 |
+| ![#6b6a67](https://via.placeholder.com/10/6b6a67?text=+) `#6b6a67` | String, Symbols, Inherited Class, Markup Heading, Entity Types                |
+| ![#7f9c0c](https://via.placeholder.com/10/7f9c0c?text=+) `#7f9c0c` | Class, Support                |
 
 
 ## Theming Reference
