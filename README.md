@@ -54,7 +54,7 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-
+<!-- 
 ## Shameless Plug
 
-Tokyo Light theme is also available for [Atom, iTerm, and more!](https://google.com/).
+Tokyo Light theme is also available for [Atom, iTerm, and more!](https://google.com/). -->
