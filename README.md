@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="DarkReader Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/darkreader-logo.png" width="100" />
+  <img alt="Tokyo Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-light/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Tokyo Theme for VS Code
 </h1>
-<h1>東京</h1>
+<h1 align="center">東京</h1>
 <h5 align="center">
   Light Version
 </h5>
@@ -19,10 +19,10 @@
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `DarkReader (Light)`
+2. Search for `Tokyo (Light)`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **DarkReader (Light)**
+5. Code > Preferences > Color Theme > **Tokyo (Light)**
 
 ## Manual Installation
 
@@ -57,4 +57,4 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 
 ## Shameless Plug
 
-Ayyour is also available for [Atom, iTerm, and more!](https://google.com/).
+Tokyo Light theme is also available for [Atom, iTerm, and more!](https://google.com/).
