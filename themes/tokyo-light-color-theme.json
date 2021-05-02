@@ -2,31 +2,31 @@
 	"name": "Tokyo (Light)",
 	"type": "light",
 	"colors": {
-		"editor.background": "#dcdad7",
-		"editor.foreground": "#323435",
+		"editor.background": "#ffffff",
+		"editor.foreground": "#24292e",
 		// "activityBarBadge.background": "#23262d",
 		"activityBarBadge.background": "#1abc9c",
-		"activityBar.background": "#d6d4d1",
+		"activityBar.background": "#f1f1f1",
 		"activityBar.activeBorder": "#1abc9c",
 		"activityBar.foreground": "#12977d",
-		"activityBar.inactiveForeground": "#323435",
-		"list.activeSelectionForeground": "#323435",
+		"activityBar.inactiveForeground": "#24292e",
+		"list.activeSelectionForeground": "#24292e",
 		"list.activeSelectionBackground": "#1abc9c",
-		"sideBar.background": "#dcdad7",
+		"sideBar.background": "#ffffff",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBarSectionHeader.foreground": "#323435",
-		"sideBarSectionHeader.background": "#d6d4d1",
+		"sideBarSectionHeader.foreground": "#24292e",
+		"sideBarSectionHeader.background": "#f1f1f1",
 		"sideBar.border": "#a5a5a5",
-		"statusBar.background": "#d6d4d1",
-		"statusBar.foreground": "#323435",
-		"editorGroupHeader.tabsBackground": "#d6d4d1",
+		"statusBar.background": "#f1f1f1",
+		"statusBar.foreground": "#24292e",
+		"editorGroupHeader.tabsBackground": "#f1f1f1",
 		"editorGroupHeader.tabsBorder": "#31363b",
-		"tab.activeBackground": "#d6d4d1",
-		"tab.inactiveBackground": "#d6d4d1",
+		"tab.activeBackground": "#f1f1f1",
+		"tab.inactiveBackground": "#f1f1f1",
 		"tab.activeBorderTop": "#1abc9c",
 		"tab.hoverBorder": "#1abc9c",
-		"tab.activeForeground": "#323435",
-		"breadcrumb.background": "#d6d4d1",
+		"tab.activeForeground": "#24292e",
+		"breadcrumb.background": "#f1f1f1",
 		"tab.border": "#6e6e6e00",
 		"terminal.ansiBlue": "#009c8f",
 		"terminal.ansiBlack": "#232627",
@@ -44,11 +44,11 @@
 		"terminal.ansiRed": "#bf0c0c",
 		"terminal.ansiWhite": "#42413f",
 		"terminal.ansiYellow": "#d59200",
-		"terminal.foreground": "#323435",
-		"terminal.background": "#dcdad7",
+		"terminal.foreground": "#24292e",
+		"terminal.background": "#ffffff",
 		"editor.selectionBackground": "#9ce0d3",
-		"input.foreground": "#323435",
-		"input.background": "#d6d4d1",
+		"input.foreground": "#24292e",
+		"input.background": "#f1f1f1",
 	},
 	"tokenColors": [
 		{
@@ -69,7 +69,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#323435"
+				"foreground": "#24292e"
 			}
 		},
 		{
@@ -78,7 +78,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#323435"
+				"foreground": "#24292e"
 			}
 		},
 		{
@@ -482,7 +482,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#323435"
+				"foreground": "#24292e"
 			}
 		},
 		{
